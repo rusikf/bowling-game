@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bowling-game/static/css/main.073c9b0a.css",
+    "main.js": "/bowling-game/static/js/main.deb091b7.js",
+    "static/js/787.200f6fa3.chunk.js": "/bowling-game/static/js/787.200f6fa3.chunk.js",
+    "index.html": "/bowling-game/index.html",
+    "main.073c9b0a.css.map": "/bowling-game/static/css/main.073c9b0a.css.map",
+    "main.deb091b7.js.map": "/bowling-game/static/js/main.deb091b7.js.map",
+    "787.200f6fa3.chunk.js.map": "/bowling-game/static/js/787.200f6fa3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.deb091b7.js"
+  ]
+}
